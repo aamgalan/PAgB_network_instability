@@ -7,13 +7,14 @@ dependencies:
   - backcall=0.1.0=py38_0
   - blas=1.0=mkl
   - ca-certificates=2020.1.1=0
-  - certifi=2019.11.28=py38_0
+  - certifi=2019.11.28=py38_1
   - cffi=1.14.0=py38hd463f26_0
   - chardet=3.0.4=py38h32f6830_1006
   - cryptography=2.8=py38h766eaa4_2
   - cycler=0.10.0=py_2
   - dbus=1.13.12=h746ee38_0
   - decorator=4.4.2=py_0
+  - entrypoints=0.3=py38h32f6830_1001
   - expat=2.2.6=he6710b0_0
   - fontconfig=2.13.0=h9420a91_0
   - freetype=2.10.0=he983fc9_1
@@ -56,11 +57,12 @@ dependencies:
   - mkl_random=1.1.0=py38h962f231_0
   - mpmath=1.1.0=py_0
   - ncurses=6.2=he6710b0_0
+  - networkx=2.4=py_0
   - nibabel=3.0.2=py_0
   - nilearn=0.6.2=pyh5ca1d4c_0
   - numpy=1.18.1=py38h4f9e942_0
   - numpy-base=1.18.1=py38hde5b4d6_1
-  - openssl=1.1.1d=h7b6447c_4
+  - openssl=1.1.1f=h7b6447c_0
   - outdated=0.2.0=py_0
   - packaging=20.1=py_0
   - pandas=1.0.1=py38h0573a6f_0
@@ -83,6 +85,7 @@ dependencies:
   - pysocks=1.7.1=py38h32f6830_1
   - python=3.8.1=h0371630_1
   - python-dateutil=2.8.1=py_0
+  - python-louvain=0.13=py_0
   - python_abi=3.8=1_cp38
   - pytz=2019.3=py_0
   - pyzmq=18.1.1=py38he6710b0_0
@@ -107,5 +110,5 @@ dependencies:
   - xz=5.2.4=h14c3975_4
   - zeromq=4.3.1=he6710b0_3
   - zlib=1.2.11=h7b6447c_3
-prefix: /home/lily/anaconda3/envs/ptab
+prefix: /home/aa/anaconda3/envs/ptab
 
